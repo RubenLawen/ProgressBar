@@ -6,3 +6,24 @@
 html{
     font-size: 62.5%;
 }
+
+body{
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+.mainprogressbar{
+    border: 2.5px solid;
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 150px;
+}
+
+.progresswidth{
+    margin-top: -1px;
+    height: 46px;
+    background-color: aqua;
+    width: 797Px;
+    border-radius: 8px;
+    margin-left: -1px;
+}
