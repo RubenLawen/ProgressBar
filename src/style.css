@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+    transition: all ease 1S;
+}
+
+html{
+    font-size: 62.5%;
+}
